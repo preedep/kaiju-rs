@@ -17,3 +17,8 @@ Cargo.lock
 /.idea/kaiju-rs.iml
 /.idea/modules.xml
 /.idea/vcs.xml
+
+
+# Added by cargo
+
+/target
